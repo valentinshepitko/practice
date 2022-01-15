@@ -1,3 +1,6 @@
+.container {
+    width: 100%;
+    }
 
 h1 {
     font-family: sans-serif;
@@ -5,11 +8,6 @@ h1 {
     font-weight: 700;
     font-size: 34px;
     }
-
-.container {
-    width: 100%;
-    max-width: 943px
-}
 
 body {
      text-align: center;
