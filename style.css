@@ -10,12 +10,13 @@ h1 {
     max-width: 943px
 }
 
-}body {
+body {
      text-align: center;
      font-size: 18px;
      font-family: sans-serif;
  }
- p {
+
+p {
      padding-bottom: 28px;
      font-size: 18px;
  }
