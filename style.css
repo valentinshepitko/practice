@@ -1,0 +1,16 @@
+
+h1 {
+    font-family: SansSerif;
+    text-align: center;
+    font-weight: 700;
+    font-size: 34px;
+
+}body {
+     text-align: center;
+     font-size: 18px;
+     font-family: sans-serif;
+ }
+ p {
+     padding-bottom: 30px;
+     font-size: 18px;
+ }
