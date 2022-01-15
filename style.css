@@ -1,11 +1,11 @@
 
 h1 {
-    font-family: SansSerif;
+    font-family: sans-serif;
     text-align: center;
     font-weight: 700;
     font-size: 34px;
 
-.container {
+..container {
     width: 100%;
     max-width: 943px
 }
