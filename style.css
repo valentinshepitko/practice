@@ -10,9 +10,10 @@ h1 {
     }
 
 body {
-     text-align: center;
-     font-size: 18px;
-     font-family: sans-serif;
+    text-align: center;
+    font-size: 18px;
+    font-family: sans-serif;
+    background-color: #F6F6F6;
  }
 
 p {
